@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:social_media_recorder/audio_encoder_type.dart';
-import 'package:social_media_recorder/provider/sound_record_notifier.dart';
 import 'package:social_media_recorder/screen/social_media_recorder.dart';
 
 void main() {
